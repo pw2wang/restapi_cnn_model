@@ -1,0 +1,6 @@
+#python 3.7
+flask
+flask_restful
+numpy
+pandas
+scipy
